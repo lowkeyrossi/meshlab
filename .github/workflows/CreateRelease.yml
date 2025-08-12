@@ -9,7 +9,7 @@ on:
         default: 'YYYY.MM'
 
 env:
-  QT_VERSION: 6.8.1
+  QT_VERSION: 6.8.0
 
 jobs:
   update_ml_version:
